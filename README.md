@@ -5,7 +5,7 @@
 ### WordPress
 * <del>[WP MVC](https://github.com/tombenner/wp-mvc)</del>
 * [MVC-WordPress Plugin Skeleton](https://github.com/iandunn/WordPress-Plugin-Skeleton)
-*[Useful WordPress Functions](https://github.com/taniarascia/wp-functions)
+* [Useful WordPress Functions](https://github.com/taniarascia/wp-functions)
 * [Best Practices](https://developer.wordpress.org/plugins/the-basics/best-practices/)
 
 ### Http
