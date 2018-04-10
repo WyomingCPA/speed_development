@@ -2,6 +2,11 @@
 * [Заготовка для десктопного приложения MVVM WPF](https://github.com/WyomingCPA/SkeletonMVVMApp) 
 
 # PHP
+### Snippets
+* [Useful PHP Snippets](https://www.sanwebe.com/2014/09/useful-php-snippets)
+* [PHP Сниппеты](https://xdan.ru/php-snippets.html)
+* [PHP Snippets](https://www.jonasjohn.de/snippets/php/)
+
 ### WordPress
 * <del>[WP MVC](https://github.com/tombenner/wp-mvc)</del>
 * [MVC-WordPress Plugin Skeleton](https://github.com/iandunn/WordPress-Plugin-Skeleton)
