@@ -13,6 +13,7 @@
 * [MVC-WordPress Plugin Skeleton](https://github.com/iandunn/WordPress-Plugin-Skeleton)
 * [Useful WordPress Functions](https://github.com/taniarascia/wp-functions)
 * [Best Practices](https://developer.wordpress.org/plugins/the-basics/best-practices/)
+* [Steps for Creating AJAX Post Filters](https://rudrastyh.com/wordpress/ajax-post-filters.html)
 
 ### Http
 * [Guzzle – простой PHP HTTP](https://github.com/guzzle/guzzle)
